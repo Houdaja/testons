@@ -1,5 +1,3 @@
-# testons
-premier repertoire avec le groupe de VLG
 # Titre de niveau 1
 
 <a name="haut">
@@ -22,7 +20,7 @@ On peut combiner les deux gras & italiques **astérisques** et _underscore_**
 
 Le texte barré utilise deux ~~tildes~~ (alt gr + 2) 
 
-# les listes
+# Les listes
 1. premier objet dans une liste ordonné
 2. second objet dans une liste ordonné
     * puce d'une liste non ordonné
@@ -46,7 +44,27 @@ Une ligne de séparation avec 3 --- (la balise <br/> en HTML)
 
 * [lien de type inline](https://www.google.com)
 
+* [lien vers un autre fichie github](https://github.com/Ma6Tvacoder-Docs/ExercicesJS/blob/master/README.md)
+
+# Les images
+
+![Image du site GIPHY par ex.](http://wanna-joke.com/the-awakening-4/)
+
+et il reste encore... :octocat: ...
+
+# Les tableaux
+
+On sépare les cellule sur la même ligne avec un PIPE (alt gr + 6)
+
+Boisson | Goût | Prix
+ --- | ---  | --- 
+Eau | Neutre | 0.10E
+Coca |  Plante | 1.80E
+Orangina |  Orange | 1.80E
+Fanta |  Orange | 1.80E
+Lait |  Plante | 0.60E
+Emoticone | :imp: | quoi?
+
 
 
 [retour en haut](#haut)
-
